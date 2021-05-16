@@ -1,6 +1,7 @@
 # Easy Loan API
-This is the API which powers the Easy Loan application. The api allows creating user accounts, login/logout of uers, creating a loan application and fetching all the loans in the system.
-Live Demo of API: https://easyloan-api-by-arnab.herokuapp.com/loan
+This is the API which powers the Easy Loan application. The api allows creating user accounts, login/logout of users, creating a loan application and fetching all the loans in the system. <br />
+Live Demo of API: https://easyloan-api-by-arnab.herokuapp.com/loan <br />
+Frontend repo of the App - https://github.com/Arnab-31/Easy-Loan
 
 
 
