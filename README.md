@@ -97,6 +97,20 @@ Success Response
 Use - Create a loan application
 Protection - User must be authenticated
 
+Request Body 
+```
+{
+   "name": "Akash",
+    "email": "akash23@gmail.com",
+    "address": "Kolkata",
+    "contact": "9187412345",
+    "amount": 123444,
+    "start_date": "2021-05-16T14:24:56.231Z",
+    "expiry_date": "2025-01-31T19:30:00.000Z",
+    "type": "Fixed",
+}
+```
+
 
 Success Response
 ```
@@ -105,7 +119,7 @@ Success Response
     "name": "Akash",
     "email": "akash23@gmail.com",
     "address": "Kolkata",
-    "contact": "918741234562",
+    "contact": "9187412345",
     "amount": 123444,
     "start_date": "2021-05-16T14:24:56.231Z",
     "expiry_date": "2025-01-31T19:30:00.000Z",
